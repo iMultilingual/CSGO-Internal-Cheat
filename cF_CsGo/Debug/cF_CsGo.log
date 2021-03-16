@@ -1,0 +1,3 @@
+﻿  EntryPoint.cpp
+G:\Gian\cF_CsGo\cF_CsGo\Exploit.hpp(53,16): warning C4552: '!=': result of expression not used
+  cF_CsGo.vcxproj -> G:\Gian\cF_CsGo\Debug\cF_CsGo.dll
