@@ -1,3 +1,3 @@
 #pragma once
-#define CSGOInternalName "CheatForum CS:GO Internal"
+#define CSGOInternalName "Panda CS:GO Internal"
 #define CSGOInternalVersion "1.0.95140"
