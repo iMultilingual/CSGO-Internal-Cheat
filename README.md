@@ -1,2 +1,2 @@
-# CS:GO Simple Internal Cheat
- A simple internal cheat with esp/trigger/radar/noflash, Feel free to continue/use it!
+# CS:GO Simple Internal Cheat ( 2021 )
+ A simple internal cheat with ( Esp, Trigger Bot, Radar, and No flash ), Feel free to continue/use it!
